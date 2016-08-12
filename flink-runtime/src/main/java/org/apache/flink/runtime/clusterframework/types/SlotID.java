@@ -62,7 +62,6 @@ public class SlotID implements ResourceIDRetrievable, Serializable {
 			return false;
 		}
 		return resourceId.equals(slotID.resourceId);
-
 	}
 
 	@Override
